@@ -52,7 +52,7 @@ Turns one query into a scored intelligence report using an autonomous pipeline:
 
 **Stack:** Python · LangChain · OpenAI · Tavily · Streamlit  
 
-🔗 **[View Project](YOUR_DEEPBRIEF_REPO_LINK)**
+🔗 **[View Project](https://github.com/koushal1768/DeepBrief)**
 
 </td>
 <td width="50%">
@@ -70,7 +70,7 @@ A full-stack MERN ride-hailing platform with real-time ride matching and live tr
 
 **Stack:** MongoDB · Express · React · Node.js · Socket.io · Google Maps  
 
-🔗 **[View Project](YOUR_WENTO_REPO_LINK)**
+🔗 **[View Project](https://github.com/koushal1768/wento)**
 
 </td>
 </tr>
